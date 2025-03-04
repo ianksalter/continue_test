@@ -1,2 +1,9 @@
-# continue_test
-A project to test various llm based coding assistants.
+# my_package
+
+A simple Python package that doubles a number.
+
+## Installation
+
+```bash
+pip install .
+
